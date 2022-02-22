@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Modificar archivo de texto 1 y aplicar merge de ramab en la rama master
-=======
-Hi World!
->>>>>>> ramab
+Hola programming World!
