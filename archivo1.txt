@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola programming World!
+=======
+Hola mundo!
+>>>>>>> ramab
